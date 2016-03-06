@@ -54,6 +54,7 @@
 
  * [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
  * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
+ * [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
  * [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
  * [Git Submodule使用完整教程](http://www.kafeitu.me/git/2012/03/27/git-submodule.html) - Git Submodule功能刚刚开始学习可能觉得有点怪异，所以本教程把每一步的操作的命令和结果都用代码的形式展现给大家，以便更好的理解。
  * [Git权威指南](http://www.worldhello.net/gotgit/) - 书
@@ -202,6 +203,18 @@
  * [ZenHub](https://github.com/ZenHubIO/support) -ZenHub 能优化你的 GitHub 工作流，是轻量级的 Chrome 浏览器插件。
  * [github-gmail](https://github.com/muan/github-gmail) - 在Gmail内快速打开GitHub的通知
  * [chrome-github-avatars](https://github.com/anasnakawa/chrome-github-avatars) - 谷歌Chrome扩展，可以让你的GitHub主页显示用户的头像。
+ * [tab-size-on-github](https://github.com/sindresorhus/tab-size-on-github) - 谷歌Chrome和Opera扩展，让代码缩进为4个空格而不是8个
+ * [hide-files-on-github](https://github.com/sindresorhus/hide-files-on-github) - 谷歌Chrome和Opera扩展，隐藏点文件
+ * [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - 谷歌Chrome和Safari扩展，代码高亮，看起来像sublime
+ * [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - 谷歌Chrome和Safari以及Firefox扩展，在GitHub的搜索栏加入自动补全功能
+ * [chrome-github-mate](https://github.com/rubyerme/chrome-github-mate) - 谷歌Chrome扩展，下载单个文件
+ * [Pages2Repo](https://github.com/Frozenfire92/Pages2Repo) - 谷歌Chrome扩展，通过GitHub Pages网站就能访问仓库。
+ * [lovely-forks](https://github.com/musically-ut/lovely-forks) - 谷歌Chrome扩展，显示fork你仓库中star最多的
+ * [github-pr-filter](https://github.com/danielhusar/github-pr-filter) - 谷歌Chrome扩展，在pr中过滤文件
+ * [github-ast-viewer](https://github.com/lukehorvat/github-ast-viewer) - 谷歌Chrome扩展，增加代码的抽象语法树
+ * [github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - 谷歌Chrome扩展，评论pr或者issue的时候有一些可选项
+ * [categoric](https://github.com/ozlerhakan/categoric) - 谷歌Chrome扩展，为你的通知分类
+ * [octo-preview](https://github.com/DrewML/octo-preview) - 谷歌Chrome扩展，预览你评论的markdown内容
 
 ####命令行
 
